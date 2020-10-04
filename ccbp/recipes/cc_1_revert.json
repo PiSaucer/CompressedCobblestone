@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "cc:cc_1_revert"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"priority": 0,
+		"ingredients": [
+			{
+			"item": "cc:cc_1",
+			"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:cobblestone",
+				"count": 9
+			}
+		]
+	}
+}

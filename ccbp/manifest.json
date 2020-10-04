@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Compressed Cobblestone Behaviors",
+		"description": "Compressed Cobblestone Behaviors",
+		"uuid": "c287edfd-3a0b-41dd-b028-0ad2167d2f9d",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			16,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "150fd196-dfca-423f-adc6-5204055673eb",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "89206c11-9291-41d6-8492-89a499980d9f"
+		}
+	]
+}

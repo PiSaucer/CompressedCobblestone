@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cc:cc_8_revert"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "cc:cc_8"
+			}
+		},
+		"result": [
+			{
+				"item": "cc:cc_7",
+				"count": 9
+			}
+		]
+	}
+}

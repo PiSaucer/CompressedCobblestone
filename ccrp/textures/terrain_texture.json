@@ -1,0 +1,33 @@
+//bridge-file-version: #0
+{
+	"resource_pack_name": "CompressedCobblestoneResources",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"cc_1": {
+			"textures": "textures/blocks/cc_1.png"
+		},
+		"cc_2": {
+			"textures": "textures/blocks/cc_2.png"
+		},
+		"cc_3": {
+			"textures": "textures/blocks/cc_3.png"
+		},
+		"cc_4": {
+			"textures": "textures/blocks/cc_4.png"
+		},
+		"cc_5": {
+			"textures": "textures/blocks/cc_5.png"
+		},
+		"cc_6": {
+			"textures": "textures/blocks/cc_6.png"
+		},
+		"cc_7": {
+			"textures": "textures/blocks/cc_7.png"
+		},
+		"cc_8": {
+			"textures": "textures/blocks/cc_8.png"
+		}
+	}
+}

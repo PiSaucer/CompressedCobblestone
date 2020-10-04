@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+  "header": {
+    "name": "Compressed Cobblestone Resources",
+    "description": "Compressed Cobblestone Resources",
+    "uuid": "89206c11-9291-41d6-8492-89a499980d9f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "dbd07c0c-b598-4420-b413-59e3773c855e",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

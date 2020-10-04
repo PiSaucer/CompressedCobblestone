@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cc:cc_1"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"###",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:cobblestone"
+			}
+		},
+		"result": [
+			{
+				"item": "cc:cc_1"
+			}
+		]
+	}
+}

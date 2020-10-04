@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cc:cc_3",
+			"register_to_creative_menu": true
+		},
+		"components": {
+			"minecraft:destroy_time": 7,
+			"minecraft:explosion_resistance": 15,
+			"minecraft:map_color": "#1B232A"
+		}
+	}
+}

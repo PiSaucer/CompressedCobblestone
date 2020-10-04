@@ -1,0 +1,12 @@
+##bridge-file-version: #0
+##pack.name=Compressed Cobblestone Resources
+##pack.description=Compressed Cobblestone Resources
+
+tile.cc:cc_1.name=Compressed Cobblestone
+tile.cc:cc_2.name=Double Compressed Cobblestone
+tile.cc:cc_3.name=Triple Compressed Cobblestone
+tile.cc:cc_4.name=Quadruple Compressed Cobblestone 
+tile.cc:cc_5.name=Quintuple Compressed Cobblestone 
+tile.cc:cc_6.name=Sextuple Compressed Cobblestone 
+tile.cc:cc_7.name=Septuple Compressed Cobblestone
+tile.cc:cc_8.name=Octuple Compressed Cobblestone
