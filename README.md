@@ -34,6 +34,8 @@ You can also use a command to bypass creating all these by hand. (# equals any n
 
 For more information visit the [wiki](https://ftbwiki.org/Compressed_Cobblestone_(Extra_Utilities)) or check it out the [GitHub](https://github.com/PiSaucer/MiniExtraUtilities).
 
+To go download go to [releases](https://github.com/PiSaucer/CompressedCobblestone/releases).
+
 ## Acknowledgments
 Original author: [CoinRaptor7111](https://mcpedl.com/user/coinraptor7111/) on [mcpedl.com](https://mcpedl.com/compressed-cobblestone-addon/)
 
