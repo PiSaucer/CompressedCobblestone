@@ -20,7 +20,11 @@ These are the name of the compressed cobblestone:
 
 To craft these new blocks, you just fill up the whole crafting table
 
+![crafting menu](crafting_menu.png)
+
 To uncraft these new blocks, you just place one anywhere on the crafting table and it goes the next lower ‘tier’
+
+![de-craft menu](decrafting_menu.png)
 
 You can also use a command to bypass creating all these by hand. (# equals any number)
 
