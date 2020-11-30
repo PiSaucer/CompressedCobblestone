@@ -1,4 +1,4 @@
-# CompressedCobblestone
+# Compressed Cobblestone
 
 ![background](background.jpg)
 
